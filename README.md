@@ -1,1 +1,1 @@
-Lazada Simple Website
+Fontend Sample for Lazada Clone Website
